@@ -1,1 +1,1 @@
-<?php echo 'baka!'; ?>
+<?php echo ''; ?>
